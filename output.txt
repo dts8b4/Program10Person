@@ -1,0 +1,62 @@
+RECORD: P,Jones,Bob,BB,none IS IN ERROR
+
+
+TYPE  LAST NAME       FIRST NAME     AGE        OTHER INFO                                  PETS
+P    Bunny          Bugs              54
+P    Sam            Yosemite          68
+P    Harris         Kamala            59
+P    Stefani        Gwen              54
+
+TOTAL PEOPLE: 4
+
+
+TYPE  LAST NAME       FIRST NAME     AGE        OTHER INFO                                  PETS
+S    Einstein       Albert           143        GPA: 4.9
+S    Parsons        Jim               42        GPA: 4.2
+S    Mouse          Mickey            91        GPA: 3.5
+S    Duck           Daffy             84        GPA: 2.5
+S    Kenobi         Obiwan           156        GPA: 4.9
+S    Squarepants    Spongebob          5        GPA: 2.3
+
+TOTAL STUDENTS: 6
+
+
+TYPE  LAST NAME       FIRST NAME     AGE        OTHER INFO                                  PETS
+E    Mouse          Minne             24   Hours: 40, Rate: 15.5, Vac. Days: 14
+E    Pig            Porky             32   Hours: 30, Rate: 12, Vac. Days: 7
+E    Dinkley        Velma             25   Hours: 40, Rate: 14.5, Vac. Days: 20
+E    Griffin        Stewie             1   Hours: 20, Rate: 14.5, Vac. Days: 27
+
+TOTAL EMPLOYEES: 4
+
+
+TYPE  LAST NAME       FIRST NAME     AGE        OTHER INFO                                  PETS
+T    Rabbit         Roger             84   Hours: 20, Rate: 10.5, Subject: Physical Education
+T    Sullivan       James             29   Hours: 30, Rate: 15.15, Subject: Management
+T    Lightyear      Buzz              45   Hours: 40, Rate: 20.15, Subject: Astronomy
+T    Wazowski       Mike              36   Hours: 35, Rate: 17.5, Subject: Computer Science
+
+TOTAL TEACHERS: 4
+
+
+TYPE  LAST NAME       FIRST NAME     AGE        OTHER INFO                                  PETS
+P    Bunny          Bugs              54
+P    Sam            Yosemite          68
+P    Harris         Kamala            59
+P    Stefani        Gwen              54
+S    Einstein       Albert           143        GPA: 4.9
+S    Parsons        Jim               42        GPA: 4.2
+S    Mouse          Mickey            91        GPA: 3.5
+S    Duck           Daffy             84        GPA: 2.5
+S    Kenobi         Obiwan           156        GPA: 4.9
+S    Squarepants    Spongebob          5        GPA: 2.3
+T    Rabbit         Roger             84   Hours: 20, Rate: 10.5, Subject: Physical Education
+T    Sullivan       James             29   Hours: 30, Rate: 15.15, Subject: Management
+T    Lightyear      Buzz              45   Hours: 40, Rate: 20.15, Subject: Astronomy
+T    Wazowski       Mike              36   Hours: 35, Rate: 17.5, Subject: Computer Science
+E    Mouse          Minne             24   Hours: 40, Rate: 15.5, Vac. Days: 14
+E    Pig            Porky             32   Hours: 30, Rate: 12, Vac. Days: 7
+E    Dinkley        Velma             25   Hours: 40, Rate: 14.5, Vac. Days: 20
+E    Griffin        Stewie             1   Hours: 20, Rate: 14.5, Vac. Days: 27
+
+TOTAL PEOPLE: 18
